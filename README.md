@@ -29,7 +29,10 @@ The research involved preprocessing the text data, applying feature extraction m
 
 ## 📊 Results
 The results demonstrated that Doc2Vec paired with K-Means clustering outperformed TF-IDF in producing well-defined clusters, as indicated by lower Davies-Bouldin scores and higher Calinski-Harabasz scores. The topic modeling results revealed distinct themes related to course design, historical aspects, gameplay, and overall experience.
-![image](https://github.com/stefanjenss/NLP_Evaluation_of_Golf_Course_Excellence/assets/118738550/9f09444f-844d-4c0e-828d-f325eb5696d6)
+
+![doc2vec_pca_visualization](https://github.com/stefanjenss/NLP_Evaluation_of_Golf_Course_Excellence/assets/118738550/9f69abbd-ae58-4541-b90d-7ee4d972baa4) ![doc2vec_tsne_visualization](https://github.com/stefanjenss/NLP_Evaluation_of_Golf_Course_Excellence/assets/118738550/16b75d48-69df-4b4b-8704-daf998ea87cc)
+
+
 
 
 
