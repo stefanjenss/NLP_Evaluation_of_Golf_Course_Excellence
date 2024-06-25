@@ -24,6 +24,11 @@ Golf courses play a crucial role in shaping the golfing experience, and understa
 - Identify common themes and features in the reviews.
 - Provide actionable insights for golf course designers and industry stakeholders to enhance course design and player experience.
 
+## 📐 Methods
+The research involved preprocessing the text data, applying feature extraction methods, and conducting topic modeling. TF-IDF and Doc2Vec were used for feature extraction, while K-Means clustering and LDA were employed for topic modeling. The performance of these techniques was evaluated using clustering metrics such as Davies-Bouldin Index and Calinski-Harabasz Score, and visualized using dimensionality reduction techniques like PCA and t-SNE.
+
+
+
 
 
 
