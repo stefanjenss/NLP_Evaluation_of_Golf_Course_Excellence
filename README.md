@@ -51,7 +51,18 @@ The results demonstrated that Doc2Vec paired with K-Means clustering outperforme
 - **Key Words:** "follow," "shape," "want," "layout," "route," "take," "let," "try"
 - **Description:** This cluster likely refers to the strategic aspects of the course and how players must navigate the routing and layout of the course strategically.
 
+## 🔮 Future Work
 
+**Expanding the Dataset:**
+- Increase the number of reviews per course.
+- Include more courses beyond the top 30.
+
+**Exploring Additional Techniques:**
+- Implement more NLP models like GPT-based models or BERT.
+
+**Incorporating Sentiment Analysis:**
+- Evaluate emotional tones in reviews.
+- Compare reviews of top-ranked courses with those outside the top 100 to develop a classification model.
 
 
 
