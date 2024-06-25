@@ -27,6 +27,10 @@ Golf courses play a crucial role in shaping the golfing experience, and understa
 ## 📐 Methods
 The research involved preprocessing the text data, applying feature extraction methods, and conducting topic modeling. TF-IDF and Doc2Vec were used for feature extraction, while K-Means clustering and LDA were employed for topic modeling. The performance of these techniques was evaluated using clustering metrics such as Davies-Bouldin Index and Calinski-Harabasz Score, and visualized using dimensionality reduction techniques like PCA and t-SNE.
 
+## 📊 Results
+The results demonstrated that Doc2Vec paired with K-Means clustering outperformed TF-IDF in producing well-defined clusters, as indicated by lower Davies-Bouldin scores and higher Calinski-Harabasz scores. The topic modeling results revealed distinct themes related to course design, historical aspects, gameplay, and overall experience.
+![image](https://github.com/stefanjenss/NLP_Evaluation_of_Golf_Course_Excellence/assets/118738550/9f09444f-844d-4c0e-828d-f325eb5696d6)
+
 
 
 
