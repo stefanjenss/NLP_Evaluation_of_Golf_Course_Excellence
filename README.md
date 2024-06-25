@@ -35,9 +35,7 @@ The results demonstrated that Doc2Vec paired with K-Means clustering outperforme
   <img src="https://github.com/stefanjenss/NLP_Evaluation_of_Golf_Course_Excellence/assets/118738550/16b75d48-69df-4b4b-8704-daf998ea87cc" width="45%" /> 
 </p>
 
-![doc2vec_pca_visualization](https://github.com/stefanjenss/NLP_Evaluation_of_Golf_Course_Excellence/assets/118738550/9f69abbd-ae58-4541-b90d-7ee4d972baa4) ![doc2vec_tsne_visualization](https://github.com/stefanjenss/NLP_Evaluation_of_Golf_Course_Excellence/assets/118738550/16b75d48-69df-4b4b-8704-daf998ea87cc)
-
-
+**Figure.** Visualization of Doc2Vec vector K-Means clusters in 2-dimensional space through multidimensional reduction various techniques. (a) Principal Component Analysis (PCA) multidimensionality reduction. (b) t-distributed Stochastic Neighbor Embedding (t-SNE) multidimensionality reduction.![image](https://github.com/stefanjenss/NLP_Evaluation_of_Golf_Course_Excellence/assets/118738550/0da80ccd-e71a-485c-a08a-d3f43a0e1134)
 
 
 
