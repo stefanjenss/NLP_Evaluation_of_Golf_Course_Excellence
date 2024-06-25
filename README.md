@@ -39,15 +39,15 @@ The results demonstrated that Doc2Vec paired with K-Means clustering outperforme
 
 ### Topic Modeling Results | Doc2Vec with K-Means Clustering
 
-**Cluster 0 (Historical Aspects and Famous Architects):**
+🕰️ **Cluster 0 (Historical Aspects and Famous Architects):**
 - **Key Words:** "design," "open," "championship," "layout," "American," "Maxwell," "architecture," "famous," "MacDonald," "Mackenzie"
 - **Description:** This cluster indicates that these courses have a history of hosting major championship golf tournaments with championship layouts. The reviews in this cluster likely contain significant discussion about the famous course architects who designed them.
 
-**Cluster 1 (Course Layout and Landscapes):**
+🏞️ **Cluster 1 (Course Layout and Landscapes):**
 - **Key Words:** "create," "bring," "property," "low," "high," "turn," "sit," "fall," "area," "view," "set," "use," "land"
 - **Description:** This cluster predominantly features words related to the golf course's physical characteristics. It likely refers to how the course designers designed the course around the physical features and visual elements of the landscape.
 
-**Cluster 2 (Technical Gameplay and Course Strategy):**
+♟️ **Cluster 2 (Technical Gameplay and Course Strategy):**
 - **Key Words:** "follow," "shape," "want," "layout," "route," "take," "let," "try"
 - **Description:** This cluster likely refers to the strategic aspects of the course and how players must navigate the routing and layout of the course strategically.
 
